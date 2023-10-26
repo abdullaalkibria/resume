@@ -1,8 +1,9 @@
 body {
     text-align: center;
+    
     font-family: 'Times New Roman', Times, serif, sans-serif;
     margin: 0;
-/*     padding-left: 10vw; */
+    /* padding-left: 10vw; */
 }
 
 header {
@@ -12,6 +13,7 @@ header {
 .profile {
     display: flex;
     align-items: center;
+    
 }
 
 .profile img {
@@ -20,7 +22,8 @@ header {
     border-radius: 80%;
     width: 250px;
     height: 250px;
-/*     margin-right: 20px; */
+    /* margin-right: 20px; */
+    /* vertical-align: middle; */
 }
 
 .info {
